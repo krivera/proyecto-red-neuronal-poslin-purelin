@@ -1,0 +1,1 @@
+resolución de ecuaciones lineales mediante un perceptrón utilizando las funciones de activación poslin y purelin.
